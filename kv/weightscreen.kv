@@ -1,0 +1,19 @@
+#:import utils kivy.utils
+
+<WeightScreen>:
+    FloatLayout:
+        canvas:
+            Color:
+                rgb: utils.get_color_from_hex("#4ee69c")
+            Rectangle:
+                size: self.size
+                pos: self.pos
+        Image:
+            source: "icons/underconstruction.png"
+            pos_hint:{"top": .8, "left": .8}
+            size_hint: 1, .5
+        Button:
+            pos_hint: {"top": .3,"right": .68}
+            size_hint: .3, .1
+            text: "Return to Home Page"
+            on_release: app.change_screen("home_screen")
