@@ -1,11 +1,9 @@
-# Readmission Prevention Tools
-In progress readme file:
+# AMT - Peds (Asthma Management Tool - Pediatrics)
+In progress file:
 
-Goal: To create an application that can be used by parents of children who were recently discharged from the hospital
-The parents will use these tools for high-risk populations at risk of readmission within 30 days of discharge.
-The current population focus is children with congenital heart defects who have already had open-heart surgery.
+The development of this software would assist patients by recommending over the counter (OTC) medications based on the patient’s symptoms. The system would function first, by having a patient input their symptoms. Then the output will return recommended OTC medications based on the entered symptoms or will tell the patient to contact their doctor if symptoms point towards something more serious. The software would function as a prescreening tool for clinics, as well as provide insight on at-home care for patients. From the clinic's standpoint, the software would give healthcare providers information on symptoms a patient is experiencing before the patient even comes into the office. In addition, it would provide insight on whether the patient’s health situation is severe enough to come in for an appointment. If the patient is experiencing mild symptoms, the software will be able to output OTC medication(s) that could be used to treat the patient’s symptoms. If the symptoms are severe enough that the patient should be seen by a doctor, the system will output a message saying the patient should contact their provider.
 
-Sarah,Sid,Stacey-The triple SSS
+# Goal
+Create an application that parents, home caregivers, and older children can use to better manage pediatric asthma. Children diagnosed with asthma are prescribed by their provider "as needed" treatment regimens based on their symptom severity and frequency of onset. The pediatric patient's treatment plan is fed into the software manually or as a drop down - based on clinical practice guidelines. (Optimally this will be entered in the software via the clinic's patient portal but this component of the programming will not be completed during this period of prototyping). The program will prompt users to answer a short questionnaire when/if a child is exhibiting symptoms and based on their responses the directions for the recommended treatment plan will populate to prompt their prescribed optimal course of management.
 
-Check out our video, explaining where we're at in Dec 2019
-https://youtu.be/z5m0C7x6t0s
+Team members: Bryana Higginbotham, Joli Miracle, and Jasmine Williams
