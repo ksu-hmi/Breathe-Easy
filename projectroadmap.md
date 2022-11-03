@@ -25,8 +25,8 @@ Joli\
 
 unassigned...
 
-[ ]Create a text file with log-in information\ 
-[ ]Create code to for users to be able to log-in from text file\
+[ ]Create a text file with log-in information\ (do we want/need to use this??)
+[ ]Create code to for users to be able to log-in from text file\ (do we want to use this??)
 [ ]Make application able to upload to Android\
 [ ]Make applicaiton able to upload to iOs\
 [-]Figure out how to send a notification (email or text to provider) if symptons recurring\
