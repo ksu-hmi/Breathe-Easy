@@ -4,7 +4,7 @@ Bryana\
 -[X] create/join organization
 -[X] Assign team member roles
 -[X] find related repositories
--[ ]Update graphics and make it look good\
+-[ ] Update graphics and make it look good\
 -[ ]\
 -[ ]\
 
@@ -14,8 +14,7 @@ Jasmine\
 [-]\
 [_]
 [ ]Application Testing\
-\
-\
+
 
 Joli\
 [X] Create application framework
@@ -29,4 +28,4 @@ Joli\
 [ ]Create code to for users to be able to log-in from text file\
 [ ]Make application able to upload to Android\
 [ ]Make applicaiton able to upload to iOs\
-[-]Figure out how to send a notification (email or text) if WAT score is high\
+[-]Figure out how to send a notification (email or text to provider) if symptons recurring\
