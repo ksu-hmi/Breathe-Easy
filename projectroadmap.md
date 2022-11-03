@@ -17,7 +17,7 @@ Jasmine\
 \
 \
 
-Jolie\
+Joli\
 [X] Create application framework
 [x] Add to readme.md file
 [X] find related repositories
