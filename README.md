@@ -9,3 +9,6 @@ The goal of this project is to bridge the gap in “as needed” asthma treatmen
 
 ## Team members
 Bryana Higginbotham, Joli Miracle, and Jasmine Williams
+
+## Resources used
+Asthma symptoms and management zones: https://www.aafa.org/asthma-symptoms/?gclid=Cj0KCQiA37KbBhDgARIsAIzce16ctdU7kiIq8DD3lXboG_eS3b383vV9bvWTGGnuQZdn1OImEqGBoUwaArjCEALw_wcB
