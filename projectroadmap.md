@@ -7,14 +7,14 @@ Bryana\
 -[X] Assign team member roles
 -[X] Find related repositories
 -[ ] Application testing via Visual Studio Code and attempt to run
--[ ] Update graphics and make it look good\
+-[X] Create powerpoint
 
 
 Jasmine\
 -[X] Find related repositories
 -[ ] Application testing via Visual Studio Code and attempt to run
 -[ ] Identify bugs causing the code to crash and resolve them.
--[ ] 
+-[ ] Add to powerpoint
 
 
 Joli\
