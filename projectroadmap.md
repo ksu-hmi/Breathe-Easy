@@ -8,7 +8,7 @@ Bryana\
 -[X] Find related repositories
 -[ ] Application testing via Visual Studio Code and attempt to run
 -[X] Create powerpoint
-
+-[ ] Make changes to code
 
 Jasmine\
 -[X] Find related repositories
