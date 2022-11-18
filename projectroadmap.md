@@ -1,3 +1,4 @@
+
 Project Road Map
 
 Bryana\
@@ -19,19 +20,23 @@ Jasmine\
 Joli\
 -[X] Create application framework
 -[x] Add README page with project description to our repository
--[X] Find related repositories
--[ ] Application testing via Visual Studio Code and attempt to run
--[ ] Consolidate notes for code splices to incorporate into program
--[ ] Prepare drop-down treatment plans based on clinical practice guidelines (provider ordered)
--[ ] Prepare input questions regarding symptoms, severity, duration (look up CPGs for this)
--[ ] Discuss what functions can be added to the existing code. 
+-[X] Find related repositories or usable code sections
+-[X] Test existing code via Visual Studio Code and attempt to run
+-[ ] Consolidate notes for code splices to incorporate into program - Actively ongoing
+-[X] Gather symptom and treatment data based on clinical practice guidelines - for use within code
+-[ ] Prepare code for "check symptom" menu, questions and output - 18NOV - actively working on, but no fully complete
+-[ ] Prepare code for "Login", "Profile", and "Help" screens. Need 2nd review and QA testing - Refining these menus as of 18NOV
+-[ ] Verify if program must have application interface (kivy, webflask, etc) or if functioning code in Python is priority
+-[X] Prepare program flowchart draft and pdf. Must verify project expectations to potentially reduce scope of program use - Will clarify in 18NOV class. 
 
 Unassigned:
 
-[ ] Create a text file with log-in information\ (do we want/need to use this??)
-[ ] Create code to for users to be able to log-in from text file\ (do we want to use this??)
-[ ] Make application able to upload to Android\
-[ ] Make applicaiton able to upload to iOs\
-[ ] Figure out how to send a notification (email or text to provider) if symptons recurring\
-[ ] Determine which lines of code are not needed in final model and remove them.
+[ ] Prepare drop-down code for AAP entry (due to length of medication selection list) - or alternate solution 
+[ ] Code to Create a text file per user(parent)/profile(child) entered to track symptom/note inputs
+[ ] Possibly too much: Can we add timestamp to symptoms added or note input? Or how to add time entry to track with note?
+[ ] Review each section of code & as a whole. Pinpoint issues that remain/solve where possible.
 [ ] Create video and presentation of final code.
+
+Omit?
+[ ] Make application able to upload to Android\ 
+[ ] Make applicaiton able to upload to iOs\
