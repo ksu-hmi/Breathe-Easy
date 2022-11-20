@@ -12,10 +12,12 @@ Bryana\
 
 Jasmine\
 -[X] Find related repositories
--[ ] Application testing via Visual Studio Code and attempt to run
--[ ] Identify bugs causing the code to crash and resolve them.
+-[X] Application testing via Visual Studio Code and attempt to run
+-[X] Identify bugs causing the code to crash and resolve them.
 -[ ] Add to powerpoint
-
+-[ ] Make application able to upload to Android 
+-[ ] Make applicaiton able to upload to iOs
+-[ ] Code to Create a text file per user(parent)/profile(child) entered to track symptom/note inputs
 
 Joli\
 -[X] Create application framework
@@ -32,11 +34,6 @@ Joli\
 Unassigned:
 
 [ ] Prepare drop-down code for AAP entry (due to length of medication selection list) - or alternate solution 
-[ ] Code to Create a text file per user(parent)/profile(child) entered to track symptom/note inputs
 [ ] Possibly too much: Can we add timestamp to symptoms added or note input? Or how to add time entry to track with note?
 [ ] Review each section of code & as a whole. Pinpoint issues that remain/solve where possible.
 [ ] Create video and presentation of final code.
-
-Omit?
-[ ] Make application able to upload to Android\ 
-[ ] Make applicaiton able to upload to iOs\
