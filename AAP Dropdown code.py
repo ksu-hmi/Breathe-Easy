@@ -13,6 +13,10 @@ menu.set("What is your childs Asthma Action Plan (AAP) ?")
 drop= OptionMenu(root, menu,"Long-term control" , "Caution" , "Quick relief rescue" , "Allergy")
 drop.pack()
 menu= StringVar()
+#Based upon the input, the output will display the next best steps and advised medication(s) for the patienta and/or consumer
+
+#A small limitation discovered here. It is tedious to find specific tkinter code that will return a new/alternate output once AAP selected.
+#Substituted previous idea of dropdown results for consumer with simple selection of buttons that will return and display patient nex steps
 
 #Returning a value from a function that is execueted from the Tkinter button
 #Defining method to button 2
