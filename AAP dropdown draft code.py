@@ -17,7 +17,8 @@ drop.pack()
 
 root.mainloop()
 
-
+#This setting will creat an application and text box that will ask the patient for the current status for the minors asthma action plan (AAP).
+#The options will follow: long-term control, caution, quick relief, allergy.
 
 
 
