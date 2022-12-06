@@ -1,4 +1,4 @@
-# AMT - Peds (Asthma Management Tool - Pediatrics)
+# AMT - Peds (Asthma Management Tool - Pediatrics) / Breathe Easy
 ## Introduction 
 Without a doubt mobile technology is one of the fastest growing topics and could be considered unruly technology. Because of its persuasive and popular nature, mobile technology has become a module of many consumers informatics, disease management and telemedicine strategies. Some would argue that healthcare professionals and consumers have entered the mhealth (mobile health) era in which mobile technology will play a much larger role in healthcare. Mhealth is a subcategory of ehealth (electronic health), which can be defined as the “delivery of healthcare services via mobile communication devices”. Wearable health IT is used to measure, track, and trend various health parameters. In the past ten years, a variety of new devices and sensors have appeared that monitor exercise, sleep, heart rate and variability, respiratory rate, hydration, etc. These could be considered part of the mobile technology armamentarium.
 
