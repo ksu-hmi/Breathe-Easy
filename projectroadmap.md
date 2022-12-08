@@ -22,8 +22,9 @@ Jasmine\
 -[X] Application testing via Visual Studio Code and attempt to run
 -[X] Identify bugs causing the code to crash and resolve them.
 -[ ] Add to powerpoint
--[ ] Make application able to upload to Android 
--[ ] Make applicaiton able to upload to iOs
+-[ ] Work out MySQL requirements for DB development and code to connect to functions
+-[-] No longer priority task - Make application able to upload to Android 
+-[-] No longer priority task - Make applicaiton able to upload to iOs
 -[ ] Code to Create a text file per user(parent)/profile(child) entered to track symptom/note inputs
 
 Joli\
@@ -32,15 +33,22 @@ Joli\
 -[x] Add README page with project description to our repository
 -[X] Find related repositories or usable code sections
 -[X] Test existing code via Visual Studio Code and attempt to run
--[ ] Consolidate notes for code splices to incorporate into program - Actively ongoing
--[X] Gather symptom and treatment data based on clinical practice guidelines - for use within code
--[ ] Prepare code for "check symptom" menu, questions and output - 18NOV - actively working on, but no fully complete
--[ ] Prepare code for "Login", "Profile", and "Help" screens. Need 2nd review and QA testing - Refining these menus as of 18NOV
--[ ] Verify if program must have application interface (kivy, webflask, etc) or if functioning code in Python is priority
+-[X] Consolidate notes for code splices to incorporate into program - Actively ongoing
 -[X] Prepare program flowchart draft and pdf. Must verify project expectations to potentially reduce scope of program use - Will clarify in 18NOV class. 
+-[X] Gather symptom and treatment data based on clinical practice guidelines - for use within code
+-[X] Prepare code for "check symptom" menu, questions and output - First versions complete, later version to break down individual symptoms to track which they're experiencing by selecting 1-6 in list, etc. 
+-[X] Prepare code for "Login", "Profile", and "Help" screens. Need 2nd review and QA testing - Refining these menus
+     (Partially complete, Edit AAP, & Note screens/DB connection not realized)
+-[x] Flask shell start - ongoing work continues 
+-[X] Create video and presentation of final code. Verify if program must have application interface (kivy, webflask, etc) or if functioning code in Python is priority
+-[X] Revamp powerpoint presentation and briefing cues
 
-Unassigned:
+Later stages - unassigned at this time:
  
-[ ] Possibly too much: Can we add timestamp to symptoms added or note input? Or how to add time entry to track with note?
-[ ] Review each section of code & as a whole. Pinpoint issues that remain/solve where possible.
-[ ] Create video and presentation of final code.
+-[ ] (shifted over to later stage with install and error issues) DB preparation and effective connection via MySQL - need to document/link profile to inputs in AAP entry(meds), symptoms, & notes.
+-Can we add timestamp to symptoms added or note input? Or how to add time entry to track with note?
+-[ ] Work out how to add timestamp to symptoms added or note input? Or how to add time entry to track with note? - And visually preference to recall info for a provider visit (calendar, vs bulleted list, etc)
+-[ ] Make final call on Flask v. Kivy for software interface - Translate the code into the visual model
+-[ ] Once interface functional, begin with parent/family member testing to assess usability and recognize critical areas to adjust or prioritize
+
+
